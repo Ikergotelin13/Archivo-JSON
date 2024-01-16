@@ -1,6 +1,6 @@
 [
     {
-      "name": "Plato Vegano",
+      "name": "Ensalada",
       "photo": "url_de_la_imagen_vegana.jpg",
       "ingredients": ["Ingrediente 1", "Ingrediente 2", "Ingrediente 3"],
       "price": 12.99,
@@ -9,7 +9,7 @@
       "lactoseIntolerant": true
     },
     {
-      "name": "Plato Sin Gluten",
+      "name": "Hummus",
       "photo": "url_de_la_imagen_sin_gluten.jpg",
       "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
       "price": 15.99,
@@ -18,7 +18,7 @@
       "lactoseIntolerant": false
     },
     {
-      "name": "Plato con Lactosa",
+      "name": "Macarrones con carbonara",
       "photo": "url_de_la_imagen_con_lactosa.jpg",
       "ingredients": ["Ingrediente X", "Ingrediente Y", "Ingrediente Z"],
       "price": 18.99,
@@ -27,8 +27,8 @@
       "lactoseIntolerant": false
     },
     {
-      "name": "Plato Mixto",
-      "photo": "url_de_la_imagen_mixta.jpg",
+      "name": "Sopa de brocoli",
+      "photo": "https://almenu.cl/wp-content/uploads/elementor/thumbs/receta-vegana-sopa-de-brocoli-p9iocd5z54c7kletqib5y5mpk6hxczqt8wnm3rlzqg.jpg",
       "ingredients": ["Ingrediente M", "Ingrediente N", "Ingrediente O"],
       "price": 22.99,
       "vegan": true,
