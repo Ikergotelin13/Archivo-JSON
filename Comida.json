@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Plato Vegano",
+      "photo": "url_de_la_imagen_vegana.jpg",
+      "ingredients": ["Ingrediente 1", "Ingrediente 2", "Ingrediente 3"],
+      "price": 12.99,
+      "vegan": true,
+      "celiac": false,
+      "lactoseIntolerant": true
+    },
+    {
+      "name": "Plato Sin Gluten",
+      "photo": "url_de_la_imagen_sin_gluten.jpg",
+      "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
+      "price": 15.99,
+      "vegan": false,
+      "celiac": true,
+      "lactoseIntolerant": false
+    },
+    {
+      "name": "Plato con Lactosa",
+      "photo": "url_de_la_imagen_con_lactosa.jpg",
+      "ingredients": ["Ingrediente X", "Ingrediente Y", "Ingrediente Z"],
+      "price": 18.99,
+      "vegan": false,
+      "celiac": false,
+      "lactoseIntolerant": false
+    },
+    {
+      "name": "Plato Mixto",
+      "photo": "url_de_la_imagen_mixta.jpg",
+      "ingredients": ["Ingrediente M", "Ingrediente N", "Ingrediente O"],
+      "price": 22.99,
+      "vegan": true,
+      "celiac": true,
+      "lactoseIntolerant": true
+    }
+  ]
+  
