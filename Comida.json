@@ -42,7 +42,7 @@
   {
     "name": "Plato de los montes",
     "photo": "https://academiagastronomica.com/wp-content/uploads/2021/07/02el-boticario-5.jpg",
-    "ingredients": ["Secreto de cerdo", "Patatas fritas", "Pimiento Fritos", "Butifarra", "Huevo frito"],
+    "ingredients": ["Sobrasada", "Patatas fritas", "Pimiento Fritos", "Butifarra", "Huevo frito"],
     "price": 12.99,
     "vegan": false,
     "celiac": false,
