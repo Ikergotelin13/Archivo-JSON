@@ -10,7 +10,7 @@
   },
   {
     "name": "Pizza",
-    "photo": "https://images.pexels.com/photos/845811/pexels-photo-845811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photo": "https://images.pexels.com/photos/166451/pexels-photo-166451.jpeg",
     "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
     "price": 15.99,
     "vegan": false,
