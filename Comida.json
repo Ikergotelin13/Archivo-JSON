@@ -1,7 +1,7 @@
 [
   {
     "name": "Ensalada",
-    "photo": "https://images.pexels.com/photos/1059905/pexels-photo-1059905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photo": "https://guipi.org/wp-content/uploads/2022/10/13-ensalada-chochos-150x150.jpg",
     "ingredients": ["Ingrediente 1", "Ingrediente 2", "Ingrediente 3"],
     "price": 12.99,
     "vegan": true,
