@@ -1,57 +1,39 @@
 [
-    {
-      "name": "Ensalada",
-      "photo": "https://content-cocina.lecturas.com/medio/2023/07/28/ensalada-caprichosa_698d82d0_900x900.jpg",
-      "ingredients": ["Ingrediente 1", "Ingrediente 2", "Ingrediente 3"],
-      "price": 12.99,
-      "vegan": true,
-      "celiac": false,
-      "lactoseIntolerant": true
-    },
-    {
-      "name": "Hummus",
-      "photo": "https://www.annarecetasfaciles.com/files/club-sandwich-1a-815x458.jpg",
-      "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
-      "price": 15.99,
-      "vegan": false,
-      "celiac": true,
-      "lactoseIntolerant": false
-    },
-      {
-      "name": "Lenguado al horno",
-      "photo": "https://www.pexels.com/es-es/foto/carne-cocida-con-verduras-725991/",
-      "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
-      "price": 15.99,
-      "vegan": false,
-      "celiac": true,
-      "lactoseIntolerant": true
-    },
-        {
-      "name": "Sandwich Club",
-      "photo": "https://www.pexels.com/es-es/foto/sandwich-de-pan-de-trigo-1209029/",
-      "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
-      "price": 15.99,
-      "vegan": false,
-      "celiac": false,
-      "lactoseIntolerant": false
-    },
-    {
-      "name": "Macarrones con carbonara",
-      "photo": "https://cecotec.es/recetas/wp-content/uploads/2022/10/OllaGM_Pasta_Macarrones_Carbonara_RRSS-1-1140x500.jpg",
-      "ingredients": ["Ingrediente X", "Ingrediente Y", "Ingrediente Z"],
-      "price": 18.99,
-      "vegan": false,
-      "celiac": false,
-      "lactoseIntolerant": false
-    },
-    {
-      "name": "Sopa de brocoli",
-      "photo": "https://almenu.cl/wp-content/uploads/elementor/thumbs/receta-vegana-sopa-de-brocoli-p9iocd5z54c7kletqib5y5mpk6hxczqt8wnm3rlzqg.jpg",
-      "ingredients": ["Ingrediente M", "Ingrediente N", "Ingrediente O"],
-      "price": 22.99,
-      "vegan": true,
-      "celiac": true,
-      "lactoseIntolerant": true
-    }
-  ]
-  
+  {
+    "name": "Ensalada",
+    "photo": "https://www.pexels.com/es-es/foto/ensalada-de-verduras-en-un-plato-1059905/",
+    "ingredients": ["Ingrediente 1", "Ingrediente 2", "Ingrediente 3"],
+    "price": 12.99,
+    "vegan": true,
+    "celiac": false,
+    "lactoseIntolerant": true
+  },
+  {
+    "name": "Pizza",
+    "photo": "https://www.pexels.com/es-es/foto/comida-de-pizza-en-bandeja-de-acero-inoxidable-845811/",
+    "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
+    "price": 15.99,
+    "vegan": false,
+    "celiac": true,
+    "lactoseIntolerant": false
+  },
+  {
+    "name": "Macarrones con tomatico",
+    "photo": "https://www.pexels.com/es-es/foto/foto-de-cierre-de-macarrones-1437267/",
+    "ingredients": ["Ingrediente X", "Ingrediente Y", "Ingrediente Z"],
+    "price": 18.99,
+    "vegan": false,
+    "celiac": false,
+    "lactoseIntolerant": false
+  },
+  {
+    "name": "Tacos al pastor",
+    "photo": "https://www.pexels.com/es-es/foto/alimentos-cocidos-en-placa-azul-2092507/",
+    "ingredients": ["Ingrediente M", "Ingrediente N", "Ingrediente O"],
+    "price": 22.99,
+    "vegan": true,
+    "celiac": true,
+    "lactoseIntolerant": true
+  }
+]
+
