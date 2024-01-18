@@ -2,20 +2,22 @@
   {
     "name": "Ensalada",
     "photo": "http://www.latejaburguer.com/media/cache/main_ficha/uploads/imagenes/img569e7506c4f44.JPG",
-    "ingredients": ["Lechuga", "Tomate", "Mayonesa","Aceite","Cebolla"],
+    "ingredients": ["Lechuga", "Tomate", "Mayonesa", "Aceite", "Cebolla"],
     "price": 12.99,
     "vegan": true,
     "celiac": false,
-    "lactoseIntolerant": true
+    "lactoseIntolerant": true,
+    "category": "entrada" 
   },
   {
     "name": "Pizza",
     "photo": "https://images.pexels.com/photos/3682837/pexels-photo-3682837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "ingredients": ["Queso", "Jamon Cocido", "Peperoni","Bacon"],
+    "ingredients": ["Queso", "Jamon Cocido", "Peperoni", "Bacon"],
     "price": 9.99,
     "vegan": false,
     "celiac": true,
-    "lactoseIntolerant": false
+    "lactoseIntolerant": false,
+    "category": "principal"  
   },
   {
     "name": "Macarrones con tomatico",
@@ -24,25 +26,28 @@
     "price": 7.99,
     "vegan": false,
     "celiac": true,
-    "lactoseIntolerant": true
+    "lactoseIntolerant": true,
+    "category": "principal"  
   },
-    {
+  {
     "name": "Plato de los montes",
     "photo": "https://academiagastronomica.com/wp-content/uploads/2021/07/02el-boticario-5.jpg",
-    "ingredients": ["Secreto de cerdo", "Patatas fritas", "Pimiento Fritos","Butifarra","Huevo frito"],
+    "ingredients": ["Secreto de cerdo", "Patatas fritas", "Pimiento Fritos", "Butifarra", "Huevo frito"],
     "price": 12.99,
     "vegan": false,
     "celiac": false,
-    "lactoseIntolerant": false
+    "lactoseIntolerant": false,
+    "category": "principal"  
   },
   {
     "name": "Tacos al pastor",
     "photo": "https://images.pexels.com/photos/2092507/pexels-photo-2092507.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "ingredients": ["Frijoles", "Cebolla", "Arroz" ,"Lima rallada"],
+    "ingredients": ["Frijoles", "Cebolla", "Arroz", "Lima rallada"],
     "price": 22.99,
     "vegan": true,
     "celiac": true,
-    "lactoseIntolerant": true
+    "lactoseIntolerant": true,
+    "category": "principal"  
   }
 ]
 
