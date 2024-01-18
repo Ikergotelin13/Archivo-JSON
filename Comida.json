@@ -23,7 +23,7 @@
     "ingredients": ["Ingrediente X", "Ingrediente Y", "Ingrediente Z"],
     "price": 18.99,
     "vegan": false,
-    "celiac": false,
+    "celiac": true,
     "lactoseIntolerant": false
   },
   {
