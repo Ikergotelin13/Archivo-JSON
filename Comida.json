@@ -17,6 +17,24 @@
       "celiac": true,
       "lactoseIntolerant": false
     },
+      {
+      "name": "Lenguado al horno",
+      "photo": "https://www.pexels.com/es-es/foto/carne-cocida-con-verduras-725991/",
+      "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
+      "price": 15.99,
+      "vegan": false,
+      "celiac": false,
+      "lactoseIntolerant": true
+    },
+        {
+      "name": "Sandwich Club",
+      "photo": "https://www.pexels.com/es-es/foto/sandwich-de-pan-de-trigo-1209029/",
+      "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
+      "price": 15.99,
+      "vegan": false,
+      "celiac": false,
+      "lactoseIntolerant": false
+    },
     {
       "name": "Macarrones con carbonara",
       "photo": "https://cecotec.es/recetas/wp-content/uploads/2022/10/OllaGM_Pasta_Macarrones_Carbonara_RRSS-1-1140x500.jpg",
