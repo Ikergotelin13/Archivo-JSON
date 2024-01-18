@@ -26,6 +26,15 @@
     "celiac": true,
     "lactoseIntolerant": true
   },
+    {
+    "name": "Plato de los montes",
+    "photo": "https://academiagastronomica.com/wp-content/uploads/2021/07/02el-boticario-5.jpg",
+    "ingredients": ["Ingrediente X", "Ingrediente Y", "Ingrediente Z"],
+    "price": 18.99,
+    "vegan": false,
+    "celiac": false,
+    "lactoseIntolerant": false
+  },
   {
     "name": "Tacos al pastor",
     "photo": "https://images.pexels.com/photos/2092507/pexels-photo-2092507.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
