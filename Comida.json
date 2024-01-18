@@ -10,7 +10,7 @@
   },
   {
     "name": "Pizza",
-    "photo": "https://www.pexels.com/es-es/foto/comida-de-pizza-en-bandeja-de-acero-inoxidable-845811/",
+    "photo": "https://images.pexels.com/photos/845811/pexels-photo-845811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
     "price": 15.99,
     "vegan": false,
