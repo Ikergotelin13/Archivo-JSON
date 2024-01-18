@@ -24,7 +24,7 @@
     "price": 18.99,
     "vegan": false,
     "celiac": true,
-    "lactoseIntolerant": false
+    "lactoseIntolerant": true
   },
   {
     "name": "Tacos al pastor",
