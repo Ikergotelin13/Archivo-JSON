@@ -67,7 +67,7 @@
     "vegan": false,
     "celiac": true,
     "lactoseIntolerant": false,
-    "category": "postres"  
+    "category": "postre"  
   },
    {
     "name": "Tiramisú",
@@ -77,7 +77,7 @@
     "vegan": false,
     "celiac": true,
     "lactoseIntolerant": false,
-    "category": "postres"  
+    "category": "postre"  
   }
 ]
 
