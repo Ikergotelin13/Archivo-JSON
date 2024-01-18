@@ -1,7 +1,7 @@
 [
     {
       "name": "Ensalada",
-      "photo": "url_de_la_imagen_vegana.jpg",
+      "photo": "https://content-cocina.lecturas.com/medio/2023/07/28/ensalada-caprichosa_698d82d0_900x900.jpg",
       "ingredients": ["Ingrediente 1", "Ingrediente 2", "Ingrediente 3"],
       "price": 12.99,
       "vegan": true,
@@ -10,7 +10,7 @@
     },
     {
       "name": "Hummus",
-      "photo": "url_de_la_imagen_sin_gluten.jpg",
+      "photo": "https://www.minutoneuquen.com/u/fotografias/m/2023/8/24/f685x385-620645_658338_5050.jpg",
       "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
       "price": 15.99,
       "vegan": false,
@@ -19,7 +19,7 @@
     },
     {
       "name": "Macarrones con carbonara",
-      "photo": "url_de_la_imagen_con_lactosa.jpg",
+      "photo": "https://cecotec.es/recetas/wp-content/uploads/2022/10/OllaGM_Pasta_Macarrones_Carbonara_RRSS-1-1140x500.jpg",
       "ingredients": ["Ingrediente X", "Ingrediente Y", "Ingrediente Z"],
       "price": 18.99,
       "vegan": false,
