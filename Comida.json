@@ -10,7 +10,7 @@
   },
   {
     "name": "Pizza",
-    "photo": "https://images.pexels.com/photos/166451/pexels-photo-166451.jpeg",
+    "photo": "https://images.pexels.com/photos/3682837/pexels-photo-3682837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "ingredients": ["Queso", "Jamon Cocido", "Peperoni","Bacon"],
     "price": 9.99,
     "vegan": false,
