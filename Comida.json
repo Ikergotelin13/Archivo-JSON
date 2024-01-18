@@ -19,7 +19,7 @@
     },
       {
       "name": "Lenguado al horno",
-      "photo": "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "photo": "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg",
       "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
       "price": 15.99,
       "vegan": false,
