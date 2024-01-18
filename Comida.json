@@ -23,8 +23,8 @@
       "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
       "price": 15.99,
       "vegan": false,
-      "celiac": false,
-      "lactoseIntolerant": false
+      "celiac": true,
+      "lactoseIntolerant": true
     },
         {
       "name": "Sandwich Club",
