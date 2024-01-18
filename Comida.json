@@ -1,8 +1,8 @@
 [
   {
     "name": "Ensalada",
-    "photo": "https://guipi.org/wp-content/uploads/2022/10/13-ensalada-chochos-150x150.jpg",
-    "ingredients": ["Ingrediente 1", "Ingrediente 2", "Ingrediente 3"],
+    "photo": "http://www.latejaburguer.com/media/cache/main_ficha/uploads/imagenes/img569e7506c4f44.JPG",
+    "ingredients": ["Lechuga", "Tomate", "Mayonesa","Aceite","Cebolla"],
     "price": 12.99,
     "vegan": true,
     "celiac": false,
@@ -11,8 +11,8 @@
   {
     "name": "Pizza",
     "photo": "https://images.pexels.com/photos/166451/pexels-photo-166451.jpeg",
-    "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
-    "price": 15.99,
+    "ingredients": ["Queso", "Jamon Cocido", "Peperoni","Bacon"],
+    "price": 9.99,
     "vegan": false,
     "celiac": true,
     "lactoseIntolerant": false
@@ -20,8 +20,8 @@
   {
     "name": "Macarrones con tomatico",
     "photo": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
-    "ingredients": ["Ingrediente X", "Ingrediente Y", "Ingrediente Z"],
-    "price": 18.99,
+    "ingredients": ["Pasta(Penne Rigatte)", "Tomate Frito", "Queso Mozarella"],
+    "price": 7.99,
     "vegan": false,
     "celiac": true,
     "lactoseIntolerant": true
@@ -29,8 +29,8 @@
     {
     "name": "Plato de los montes",
     "photo": "https://academiagastronomica.com/wp-content/uploads/2021/07/02el-boticario-5.jpg",
-    "ingredients": ["Ingrediente X", "Ingrediente Y", "Ingrediente Z"],
-    "price": 18.99,
+    "ingredients": ["Secreto de cerdo", "Patatas fritas", "Pimiento Fritos","Butifarra","Huevo frito"],
+    "price": 12.99,
     "vegan": false,
     "celiac": false,
     "lactoseIntolerant": false
@@ -38,7 +38,7 @@
   {
     "name": "Tacos al pastor",
     "photo": "https://images.pexels.com/photos/2092507/pexels-photo-2092507.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "ingredients": ["Ingrediente M", "Ingrediente N", "Ingrediente O"],
+    "ingredients": ["Frijoles", "Cebolla", "Arroz" ,"Lima rallada"],
     "price": 22.99,
     "vegan": true,
     "celiac": true,
