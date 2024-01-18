@@ -19,12 +19,12 @@
     },
       {
       "name": "Lenguado al horno",
-      "photo": "https://www.pequerecetas.com/wp-content/uploads/2022/12/lenguado-al-horno-receta.jpg.webp",
+      "photo": "https://www.pexels.com/es-es/foto/carne-cocida-con-verduras-725991/",
       "ingredients": ["Ingrediente A", "Ingrediente B", "Ingrediente C"],
       "price": 15.99,
       "vegan": false,
       "celiac": false,
-      "lactoseIntolerant": true
+      "lactoseIntolerant": false
     },
         {
       "name": "Sandwich Club",
