@@ -3,10 +3,20 @@
     "name": "Ensalada",
     "photo": "http://www.latejaburguer.com/media/cache/main_ficha/uploads/imagenes/img569e7506c4f44.JPG",
     "ingredients": ["Lechuga", "Tomate", "Mayonesa", "Aceite", "Cebolla"],
-    "price": 12.99,
+    "price": 6.99,
     "vegan": true,
     "celiac": false,
     "lactoseIntolerant": true,
+    "category": "entrada" 
+  },
+    {
+    "name": "Ensalada Cesar",
+    "photo": "http://www.latejaburguer.com/media/cache/main_ficha/uploads/imagenes/img569e7506c4f44.JPG",
+    "ingredients": ["Lechuga", "Queso Grana Padano", "Picatostes", "Pollo"],
+    "price": 7.99,
+    "vegan": false,
+    "celiac": true,
+    "lactoseIntolerant": false,
     "category": "entrada" 
   },
   {
@@ -43,11 +53,31 @@
     "name": "Tacos al pastor",
     "photo": "https://images.pexels.com/photos/2092507/pexels-photo-2092507.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "ingredients": ["Frijoles", "Cebolla", "Arroz", "Lima rallada"],
-    "price": 22.99,
+    "price": 10.50,
     "vegan": true,
     "celiac": true,
     "lactoseIntolerant": true,
     "category": "principal"  
+  },
+    {
+    "name": "Tarta de 3 chocolates",
+    "photo": "https://www.restauranteoviedonalon.es/wp-content/uploads/2021/01/Tarta-tres-chocolates-scaled.jpg",
+    "ingredients": ["Chocolate negro", "Chocolate blanco", "Nata", "Helado"],
+    "price": 5.50,
+    "vegan": false,
+    "celiac": true,
+    "lactoseIntolerant": false,
+    "category": "postres"  
+  },
+   {
+    "name": "Tiramisú",
+    "photo": "https://www.restauranteoviedonalon.es/wp-content/uploads/2021/01/Tarta-tres-chocolates-scaled.jpg",
+    "ingredients": ["Nesquik", "Harina", "Aceite de girasol", "Anacardos","  Cafe"],
+    "price": 12.99,
+    "vegan": false,
+    "celiac": true,
+    "lactoseIntolerant": false,
+    "category": "postres"  
   }
 ]
 
