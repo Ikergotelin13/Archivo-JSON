@@ -1,7 +1,7 @@
 [
   {
     "name": "Ensalada",
-    "photo": "https://www.pexels.com/es-es/foto/ensalada-de-verduras-en-un-plato-1059905/",
+    "photo": "https://images.pexels.com/photos/1059905/pexels-photo-1059905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "ingredients": ["Ingrediente 1", "Ingrediente 2", "Ingrediente 3"],
     "price": 12.99,
     "vegan": true,
