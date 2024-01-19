@@ -72,7 +72,7 @@
    {
     "name": "Macedonia de temporada",
     "photo": "https://www.cuerpomente.com/medio/2021/07/30/macedonias-de-frutas_96f81035_1200x1200.jpg",
-    "ingredients": ["Melon", "Mango", "Platano", "Fresa"],
+    "ingredients": ["Melon", "Mango", "Platano", "Fresa","Sandia"],
     "price": 4.50,
     "vegan": true,
     "celiac": true,
