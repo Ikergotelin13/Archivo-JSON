@@ -1,7 +1,7 @@
 [
   {
     "name": "Ensalada",
-    "photo": "http://www.latejaburguer.com/media/cache/main_ficha/uploads/imagenes/img569e7506c4f44.JPG",
+    "photo": "https://www.laylita.com/recetas/wp-content/uploads/Ensalada-de-lechuga-con-limon-y-cilantro.jpg",
     "ingredients": ["Lechuga", "Tomate", "Mayonesa", "Aceite", "Cebolla"],
     "price": 6.99,
     "vegan": true,
