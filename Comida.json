@@ -29,6 +29,16 @@
     "lactoseIntolerant": false,
     "category": "principal"  
   },
+    {
+    "name": "Albondigas en salsa de almendras con patatas",
+    "photo": "https://img-global.cpcdn.com/recipes/recipes_83671_v1408821291_receta_foto_00083671-zp1vycmnbhi34j3zwqwn/680x482cq70/albondigas-con-salsa-de-almendras-fritas-foto-principal.webp",
+    "ingredients": ["Carne picada de cerdo", "Almendras", "Patata", "Aceite de Girasol"],
+    "price": 8.49,
+    "vegan": false,
+    "celiac": true,
+    "lactoseIntolerant": true,
+    "category": "principal"  
+  },
   {
     "name": "Macarrones con tomatico",
     "photo": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
