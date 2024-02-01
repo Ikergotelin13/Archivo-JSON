@@ -18,6 +18,26 @@
     "celiac": true,
     "lactoseIntolerant": false,
     "category": "entrada" 
+  },   
+  {
+    "name": "Sopa de picadillo",
+    "photo": "https://i.ytimg.com/vi/aNLvxuPpEZA/maxresdefault.jpg",
+    "ingredients": ["Pan", "Verduras", "Picatostes", "Pollo","Huevo Cocido","Jamón Serrano"],
+    "price": 7.99,
+    "vegan": false,
+    "celiac": true,
+    "lactoseIntolerant": true,
+    "category": "entrada" 
+  },
+    {
+    "name": "Crema de verduras",
+    "photo": "https://i.blogs.es/bdc141/crema-verduras/1366_2000.jpg",
+    "ingredients": ["Cebolla", "Zanahoria", "Caldo de verduras", "Calabaza"],
+    "price": 7.99,
+    "vegan": false,
+    "celiac": true,
+    "lactoseIntolerant": true,
+    "category": "entrada" 
   },
   {
     "name": "Pizza",
