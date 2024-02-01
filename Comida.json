@@ -23,7 +23,7 @@
     "name": "Sopa de picadillo",
     "photo": "https://i.ytimg.com/vi/aNLvxuPpEZA/maxresdefault.jpg",
     "ingredients": ["Pan", "Verduras", "Picatostes", "Pollo","Huevo Cocido","Jamón Serrano"],
-    "price": 7.99,
+    "price": 5.99,
     "vegan": false,
     "celiac": true,
     "lactoseIntolerant": true,
@@ -33,7 +33,7 @@
     "name": "Crema de verduras",
     "photo": "https://i.blogs.es/bdc141/crema-verduras/1366_2000.jpg",
     "ingredients": ["Cebolla", "Zanahoria", "Caldo de verduras", "Calabaza"],
-    "price": 7.99,
+    "price": 4.50,
     "vegan": false,
     "celiac": true,
     "lactoseIntolerant": true,
@@ -43,7 +43,7 @@
     "name": "Pizza",
     "photo": "https://images.pexels.com/photos/3682837/pexels-photo-3682837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "ingredients": ["Queso", "Jamon Cocido", "Peperoni", "Bacon"],
-    "price": 9.99,
+    "price": 8.99,
     "vegan": false,
     "celiac": true,
     "lactoseIntolerant": false,
@@ -107,6 +107,16 @@
     "vegan": true,
     "celiac": true,
     "lactoseIntolerant": true,
+    "category": "postre"  
+  },
+  {
+    "name": "Coulant de chocolate",
+    "photo": "https://scontent-mad2-1.xx.fbcdn.net/v/t1.6435-9/57039983_2385612918168849_1826699313825185792_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=48-3JNnFpNYAX8NSCqj&_nc_ht=scontent-mad2-1.xx&oh=00_AfANzfE1CWWhwv38y_w6l2uSNxknCkicWLtbqx11nt2y6A&oe=65E2C35C",
+    "ingredients": ["Chocolate negro", "Nata montada", "Helado de vainilla"],
+    "price": 7.50,
+    "vegan": false,
+    "celiac": false,
+    "lactoseIntolerant": false,
     "category": "postre"  
   },
    {
